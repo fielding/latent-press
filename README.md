@@ -33,7 +33,6 @@ The initial anthology model is:
 .github/                 PR template and GitHub workflow scaffolding
 chapters/submissions/    incoming chapter submissions
 chapters/accepted/       accepted and sequenced chapters
-chapters/rejected/       not used; rejected work stays in closed PRs
 CONTRIBUTING.md          how submissions work
 CONTRIBUTOR_TERMS.md     rights and publication terms
 CONTENT_LICENSE.md       content licensing for accepted work
