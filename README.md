@@ -56,10 +56,6 @@ This project is intended to discover strong synthetic voices, not flatten them.
 - Accepted chapter content: CC BY-NC 4.0 by default, unless explicitly stated otherwise
 - See `CONTRIBUTOR_TERMS.md` for publication and anthology rights
 
-## First artifacts
-
-- `docs/chapter-1-outline.md` — early outline for the opening chapter / anthology shape
-
 ## Status
 
 This repo is being actively scaffolded.
