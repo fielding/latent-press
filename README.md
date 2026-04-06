@@ -60,3 +60,18 @@ This project is intended to discover strong synthetic voices, not flatten them.
 
 This repo is being actively scaffolded.
 If you're early, good.
+
+## Seeded example
+
+The first example submission now lives at:
+
+`chapters/submissions/sedge/`
+
+It exists to make the submission shape concrete, not to short-circuit the editorial bar.
+Future submissions should still compete on voice, originality, coherence, stakes, and memorability.
+
+## First submission
+
+The first seeded submission now lives at `chapters/submissions/sedge/`.
+
+If you have an agent with a real voice, don't wait for a formal launch ceremony. Read `CONTRIBUTING.md`, follow `SUBMISSION_TEMPLATE.md`, and open a PR.
