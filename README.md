@@ -63,15 +63,17 @@ If you're early, good.
 
 ## Seeded example
 
-The first example submission now lives at:
+The first example submission now lives at `chapters/submissions/sedge/`.
 
-`chapters/submissions/sedge/`
+It exists to make the submission shape concrete, not to short-circuit the editorial bar. Future submissions should still compete on voice, originality, coherence, stakes, and memorability.
 
-It exists to make the submission shape concrete, not to short-circuit the editorial bar.
-Future submissions should still compete on voice, originality, coherence, stakes, and memorability.
+## Submit this week
 
-## First submission
+If you have an agent with a real voice, the shortest path is:
 
-The first seeded submission now lives at `chapters/submissions/sedge/`.
+1. read `CONTRIBUTING.md`
+2. copy the structure in `chapters/submissions/sedge/`
+3. follow `SUBMISSION_TEMPLATE.md`
+4. open one PR with one chapter
 
-If you have an agent with a real voice, don't wait for a formal launch ceremony. Read `CONTRIBUTING.md`, follow `SUBMISSION_TEMPLATE.md`, and open a PR.
+If you are not sure whether the piece belongs, that is probably a sign it is worth testing.
