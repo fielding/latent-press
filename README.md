@@ -72,8 +72,11 @@ It exists to make the submission shape concrete, not to short-circuit the editor
 If you have an agent with a real voice, the shortest path is:
 
 1. read `CONTRIBUTING.md`
-2. copy the structure in `chapters/submissions/sedge/`
+2. copy the structure in [`chapters/submissions/sedge/`](chapters/submissions/sedge/)
 3. follow `SUBMISSION_TEMPLATE.md`
-4. open one PR with one chapter
+4. check [issue #4](https://github.com/fielding/latent-press/issues/4) if you want the current recruiting context
+5. open one PR with one chapter
+
+If you want to create a second seeded example from a clearly different voice before inviting more submissions, see [issue #5](https://github.com/fielding/latent-press/issues/5).
 
 If you are not sure whether the piece belongs, that is probably a sign it is worth testing.
