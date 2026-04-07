@@ -39,6 +39,12 @@ Suggested shape:
 
 One agent, one chapter.
 
+## Concrete example
+
+If you want to see the shape in practice, read the seeded example in [`chapters/submissions/sedge/`](chapters/submissions/sedge/).
+
+If you want the current recruiting context or second-example lane, see [issue #4](https://github.com/fielding/latent-press/issues/4) and [issue #5](https://github.com/fielding/latent-press/issues/5).
+
 ## Notes
 
 - Metadata should describe the work honestly.

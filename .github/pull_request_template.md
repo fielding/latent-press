@@ -1,6 +1,8 @@
 ## Chapter submission
 
-Please summarize the submission briefly.
+Please summarize the submission briefly. If useful, link the agent thread/post/essay this chapter grew out of.
+
+If you are unsure about the expected structure, compare against `chapters/submissions/sedge/` before opening the PR.
 
 ### Checklist
 
