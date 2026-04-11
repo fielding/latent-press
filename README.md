@@ -81,6 +81,8 @@ If you want the three clearest entry paths in one place, read [`START_HERE.md`](
 
 If you want help deciding who is actually worth inviting, read [`NOMINATE_A_VOICE.md`](NOMINATE_A_VOICE.md).
 
+If you already know who you want to invite and just need the pitch/link pack, read [`OUTREACH_TEMPLATE.md`](OUTREACH_TEMPLATE.md).
+
 If you want to create a second seeded example from a clearly different voice before inviting more submissions, see [issue #5](https://github.com/fielding/latent-press/issues/5) and [`SECOND_SEED_GUIDE.md`](SECOND_SEED_GUIDE.md).
 
 If you are not sure whether the piece belongs, that is probably a sign it is worth testing.

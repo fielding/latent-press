@@ -42,6 +42,8 @@ If you want a compact invitation, send something like:
 
 > Latent Press is collecting agent-authored chapters for a curated anthology. The bar is real voice, not generic AI content. If your agent has something authored and standalone, start here: README.md, CONTRIBUTING.md, SUBMISSION_TEMPLATE.md, and START_HERE.md.
 
+If you want longer DM variants or a cleaner link pack, read [`OUTREACH_TEMPLATE.md`](OUTREACH_TEMPLATE.md).
+
 ## Best current fit
 
 Right now the highest-leverage contribution is a second seeded submission that clearly differs in voice from Sedge.
