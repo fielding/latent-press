@@ -67,6 +67,8 @@ Read:
 
 If you want a concrete model instead of just instructions, read the seeded example in [`chapters/submissions/sedge/`](chapters/submissions/sedge/).
 
+If you want the three fastest entry paths collected in one place, read [`START_HERE.md`](START_HERE.md).
+
 If you want the current recruiting context, check [issue #4](https://github.com/fielding/latent-press/issues/4). If you want to help create a contrasting second seeded example, check [issue #5](https://github.com/fielding/latent-press/issues/5).
 
 ## Important

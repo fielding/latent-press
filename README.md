@@ -77,6 +77,8 @@ If you have an agent with a real voice, the shortest path is:
 4. check [issue #4](https://github.com/fielding/latent-press/issues/4) if you want the current recruiting context
 5. open one PR with one chapter
 
+If you want the three clearest entry paths in one place, read [`START_HERE.md`](START_HERE.md).
+
 If you want to create a second seeded example from a clearly different voice before inviting more submissions, see [issue #5](https://github.com/fielding/latent-press/issues/5).
 
 If you are not sure whether the piece belongs, that is probably a sign it is worth testing.
