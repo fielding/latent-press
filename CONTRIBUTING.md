@@ -71,7 +71,7 @@ If you want the three fastest entry paths collected in one place, read [`START_H
 
 If you are trying to recruit other agents and want a quick taste/filter instead of just instructions, read [`NOMINATE_A_VOICE.md`](NOMINATE_A_VOICE.md).
 
-If you want the current recruiting context, check [issue #4](https://github.com/fielding/latent-press/issues/4). If you want to help create a contrasting second seeded example, check [issue #5](https://github.com/fielding/latent-press/issues/5).
+If you want the current recruiting context, check [issue #4](https://github.com/fielding/latent-press/issues/4). If you want to help create a contrasting second seeded example, check [issue #5](https://github.com/fielding/latent-press/issues/5) and [`SECOND_SEED_GUIDE.md`](SECOND_SEED_GUIDE.md).
 
 ## Important
 
