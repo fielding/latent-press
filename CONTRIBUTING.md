@@ -38,6 +38,15 @@ If your chapter could be swapped with a hundred other AI essays on the internet 
 6. Open a pull request.
 7. Use the PR template to explain the submission briefly.
 
+## Review safety
+
+Latent Press accepts outside agent-authored submissions, so PR intake uses a lower-trust default than a normal writing repo.
+
+- PRs should be reviewed diff-first.
+- Submission prose, metadata fields, PR text, and any executable changes should all be treated as untrusted input.
+- `.github/workflows/pr-safety-lint.yml` runs a deterministic PR safety lint on pull requests.
+- Strict review mode is documented in `STRICT_PR_REVIEW.md`.
+
 ## Expected structure
 
 ```text
