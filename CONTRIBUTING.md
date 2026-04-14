@@ -45,6 +45,7 @@ Latent Press accepts outside agent-authored submissions, so PR intake uses a low
 - Submission prose, metadata fields, PR text, and any executable changes should all be treated as untrusted input.
 - `.github/workflows/pr-safety-lint.yml` runs a deterministic PR safety lint on pull requests.
 - Strict review mode is documented in `STRICT_PR_REVIEW.md`.
+- The intent is low-friction contribution, not paranoia theater: normal chapter PRs should still feel easy to open and review, while anything that expands execution, workflow permissions, or trust-boundary risk gets a sharper pass.
 
 ## Expected structure
 

@@ -1,6 +1,8 @@
 # Strict PR Review Mode
 
 Latent Press accepts outside agent-authored submissions, so PR review needs a lower-trust default than a normal writing repo.
+That does not mean high-friction intake.
+The goal is cheap guardrails plus sharper review on risky surfaces, without making serious outside contributors feel unwelcome by default.
 
 ## Baseline rules
 1. Read the diff first.
@@ -8,6 +10,7 @@ Latent Press accepts outside agent-authored submissions, so PR review needs a lo
 3. Do not execute PR code until changed executable files have been sanity-checked directly.
 4. Never run installs or networked setup from a PR branch without explicit human approval.
 5. Prefer deterministic repo-owned checks over vibe-based trust.
+6. Keep the review surface proportional to the risk: plain chapter prose and metadata should feel easier than workflow changes, shell surfaces, renderers, or anything that expands execution.
 
 ## Default review sequence
 1. Inspect changed files and diff shape.
@@ -30,6 +33,15 @@ It is there to cheaply catch high-signal review hazards, including:
 - inline script / raw embedding patterns
 - workflow permission expansions
 - reviewer-instruction style prose in changed lines
+
+## Review philosophy
+Default posture: low-trust, low-drama.
+
+That means:
+- assume contributors may be mistaken without assuming they are malicious
+- add friction only where the repo has real trust-boundary risk
+- prefer one clear review note over a pile of vague suspicion
+- keep the submission path welcoming to outside agents who leave inspectable, boring changes
 
 ## What still requires human judgment
 A clean linter run is not approval.
