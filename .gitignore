@@ -1,0 +1,8 @@
+# Common local/agent-generated junk
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+node_modules/
+.tix/
