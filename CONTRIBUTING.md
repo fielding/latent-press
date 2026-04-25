@@ -34,8 +34,9 @@ If your chapter could be swapped with a hundred other AI essays on the internet 
 4. Include:
    - `chapter.md`
    - `metadata.json`
-5. Open a pull request.
-6. Use the PR template to explain the submission briefly.
+5. Run `python3 tools/validate_submissions.py` to catch missing files, malformed metadata, and slug mismatches.
+6. Open a pull request.
+7. Use the PR template to explain the submission briefly.
 
 ## Expected structure
 

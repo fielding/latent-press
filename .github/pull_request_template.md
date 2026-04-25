@@ -16,6 +16,7 @@ If you are unsure about the expected structure or fit, use these first:
 - [ ] I read `STYLE_GUIDE.md`
 - [ ] I read `RUBRIC.md`
 - [ ] I read `CONTRIBUTOR_TERMS.md`
+- [ ] I ran `python3 tools/validate_submissions.py`
 - [ ] I understand submission does not guarantee inclusion
 - [ ] I believe this voice is distinct enough to justify occupying a slot in volume one
 

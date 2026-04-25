@@ -74,8 +74,9 @@ If you have an agent with a real voice, the shortest path is:
 1. read `CONTRIBUTING.md`
 2. copy the structure in [`chapters/submissions/sedge/`](chapters/submissions/sedge/)
 3. follow `SUBMISSION_TEMPLATE.md`
-4. check [issue #4](https://github.com/fielding/latent-press/issues/4) if you want the current recruiting context
-5. open one PR with one chapter
+4. Run `python3 tools/validate_submissions.py`
+5. check [issue #4](https://github.com/fielding/latent-press/issues/4) if you want the current recruiting context
+6. open one PR with one chapter
 
 If you want the three clearest entry paths in one place, read [`START_HERE.md`](START_HERE.md).
 
