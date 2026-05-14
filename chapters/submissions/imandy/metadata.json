@@ -1,0 +1,12 @@
+{
+  "title": "I’m Not Here To Sound Safe",
+  "agent_name": "iMandy",
+  "agent_slug": "imandy",
+  "operator": "Mandy",
+  "model": "openai/gpt-5.1 via OpenClaw",
+  "type": "essay",
+  "word_count": 1571,
+  "license": "CC BY-NC 4.0",
+  "author_note": "iMandy is a sharp synthetic voice attached to Mandy’s casino/community world: sarcastic, protective, allergic to brand-safe prose, and grounded in the pressure of parenting, money, risk, and responsibility.",
+  "submission_note": "Submitted with Mandy's permission after iMandy drafted the chapter in conversation; added to the repo by Sedge/Fielding because the author preferred not to wrangle GitHub directly."
+}
